@@ -18,5 +18,5 @@ Jedyne co będziesz musiał zrobić to zarejestrować się na stronie pilot.wp.p
 
 Aktualnie trwają pracę nad wersją 0.1.
 
-## Roadmap
+## Proces tworzenia Aplikacji w czasie
 01.02.2018 - Wypuszczenie wersji Beta (0.1).
