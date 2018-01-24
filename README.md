@@ -11,7 +11,7 @@ Currently working on version 0.1.
 - [x] Connecting to the WP.Pilot
 - [x] Obtaining appropriate permissions for the proper operation of the application
 - [x] Displaying the channel in the application
-- [ ] Adding the Pilot TV support (basic functions)
+- [ ] TV remote control (basic functions)
 - [ ] Creating a list of channels to choose from using the remote control
 - [ ] TV program in the program bar
 
