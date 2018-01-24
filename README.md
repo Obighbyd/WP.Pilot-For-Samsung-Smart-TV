@@ -9,7 +9,11 @@ Currently working on version 0.1.
 
 ## Todo
 - [x] Connecting to the WP.Pilot
-
+- [x] Obtaining appropriate permissions for the proper operation of the application
+- [x] Displaying the channel in the application
+- [ ] Adding the Pilot TV support (basic functions)
+- [ ] Creating a list of channels to choose from using the remote control
+- [ ] TV program in the program bar
 
 ## Roadmap
 01.02.2018 - Release of the Beta (0.1) version.
@@ -22,8 +26,13 @@ Jedyne co będziesz musiał zrobić to zarejestrować się na stronie pilot.wp.p
 
 Aktualnie trwają pracę nad wersją 0.1.
 
-## Do zrobienia
+## Do zrobienia 
 - [x] Podłączenie się pod WP.Pilot
+- [x] Uzyskanie odpowiednich uprawnień do poprawnego działania aplikacji
+- [x] Wyświetlanie kanału w aplikacji
+- [ ] Dodanie obsługi Pilota TV (podstawowe funkcje)
+- [ ] Stworzenie listy kanałów do wyboru za pomocą pilota 
+- [ ] Program telewizyjny w pasku programu
 
 ## Proces tworzenia Aplikacji w czasie
 01.02.2018 - Wypuszczenie wersji Beta (0.1).
