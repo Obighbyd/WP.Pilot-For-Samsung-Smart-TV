@@ -1,5 +1,5 @@
 # WP.Pilot-For-Samsung-Smart-TV
-## 0.1 Preview
+## v. 0.1
 
 ![alt_text][preview]
 
