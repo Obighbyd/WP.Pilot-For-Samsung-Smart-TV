@@ -17,9 +17,11 @@ Currently working on version 0.1.
 - [x] Connecting to the WP.Pilot
 - [x] Obtaining appropriate permissions for the proper operation of the application
 - [x] Displaying the channel in the application
-- [ ] TV remote control (basic functions)
-- [ ] Creating a list of channels to choose from using the remote control
+- [x] TV remote control (basic functions)
+- [x] Creating a list of channels to choose from using the remote control
 - [ ] TV program in the program bar
+- [x] Changing the application resolution to 1920x1080
+- 
 
 ## Roadmap
 01.02.2018 - Release of the Beta (0.1) version.
@@ -36,9 +38,10 @@ Aktualnie trwają pracę nad wersją 0.1.
 - [x] Podłączenie się pod WP.Pilot
 - [x] Uzyskanie odpowiednich uprawnień do poprawnego działania aplikacji
 - [x] Wyświetlanie kanału w aplikacji
-- [ ] Dodanie obsługi Pilota TV (podstawowe funkcje)
-- [ ] Stworzenie listy kanałów do wyboru za pomocą pilota 
+- [x] Dodanie obsługi Pilota TV (podstawowe funkcje)
+- [x] Stworzenie listy kanałów do wyboru za pomocą pilota 
 - [ ] Program telewizyjny w pasku programu
+- [x] Zmiana rozdzielczości aplikacji na 1920x1080
 
 ## Proces tworzenia Aplikacji w czasie
 01.02.2018 - Wypuszczenie wersji Beta (0.1).
