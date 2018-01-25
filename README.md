@@ -1,8 +1,9 @@
 # WP.Pilot-For-Samsung-Smart-TV
 ## 0.1 Preview
+
 ![alt_text][preview]
 
-[preview] http://sh198356.website.pl/_github/WP.Pilot-For-Samsung-Smart-TV/1.jpg
+[preview]: http://sh198356.website.pl/_github/WP.Pilot-For-Samsung-Smart-TV/1.jpg
 
 ![alt text][en]
 
