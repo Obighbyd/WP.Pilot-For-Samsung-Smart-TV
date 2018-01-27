@@ -13,15 +13,16 @@ The only thing you will have to do is register on pilot.wp.pl and enter your dat
 
 Currently working on version 0.1.
 
-## Todo
+## Todo v.0.1
 - [x] Connecting to the WP.Pilot
 - [x] Obtaining appropriate permissions for the proper operation of the application
 - [x] Displaying the channel in the application
 - [x] TV remote control (basic functions)
 - [x] Creating a list of channels to choose from using the remote control
-- [ ] TV program in the program bar
 - [x] Changing the application resolution to 1920x1080
-- 
+- [x] EPG (3 days - today, tomorrow, day after tomorrow)
+- [x] Progress Bar
+- [ ] Fullscreen and video preview
 
 ## Roadmap
 01.02.2018 - Release of the Beta (0.1) version.
@@ -34,14 +35,16 @@ Jedyne co będziesz musiał zrobić to zarejestrować się na stronie pilot.wp.p
 
 Aktualnie trwają pracę nad wersją 0.1.
 
-## Do zrobienia 
+## Do zrobienia v.0.1
 - [x] Podłączenie się pod WP.Pilot
 - [x] Uzyskanie odpowiednich uprawnień do poprawnego działania aplikacji
 - [x] Wyświetlanie kanału w aplikacji
 - [x] Dodanie obsługi Pilota TV (podstawowe funkcje)
 - [x] Stworzenie listy kanałów do wyboru za pomocą pilota 
-- [ ] Program telewizyjny w pasku programu
 - [x] Zmiana rozdzielczości aplikacji na 1920x1080
+- [x] EPG (3 dni - dziś, jutro, pojutrze)
+- [x] Pasek Postępu Wideo
+- [ ] Pełny ekran i podgląd wideo
 
 ## Proces tworzenia Aplikacji w czasie
 01.02.2018 - Wypuszczenie wersji Beta (0.1).
