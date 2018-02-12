@@ -29,7 +29,7 @@ Currently working on version 0.1.
 - [ ] Fullscreen and video preview
 
 ## Roadmap
-01.02.2018 - Release of the Beta (0.1) version.
+18.02.2018 - Release of the Beta (0.1) version.
 ___
 ![alt text][pl]
 
@@ -51,4 +51,4 @@ Aktualnie trwają pracę nad wersją 0.1.
 - [ ] Pełny ekran i podgląd wideo
 
 ## Proces tworzenia Aplikacji w czasie
-01.02.2018 - Wypuszczenie wersji Beta (0.1).
+18.02.2018 - Wypuszczenie wersji Beta (0.1).
