@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<title>wppilot</title>
+
+		<!-- TODO : Common API -->
+		<script type="text/javascript" language="javascript" src="$MANAGER_WIDGET/Common/API/Widget.js"></script>
+		<script type="text/javascript" language="javascript" src="$MANAGER_WIDGET/Common/API/TVKeyValue.js"></script>
+		<!-- TODO : Javascript code -->
+		<script language="javascript" type="text/javascript" src="app/javascript/Main.js"></script>
+		<script language="javascript" type="text/javascript" src="app/javascript/base64.js"></script>
+
+		<!-- TODO : Style sheets code -->
+		<link rel="stylesheet" href="app/stylesheets/bootstrap.min.css" type="text/css">
+		<link rel="stylesheet" href="app/plugins/font-awesome/css/font-awesome.min.css">
+		
+		<link rel="stylesheet" href="app/stylesheets/Main.css" type="text/css">
+		<script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
+		<!-- TODO: Plugins -->
+	</head>
+
+	<body onload="Main.onLoad();" onunload="Main.onUnload();">
+		<div class="container-fluid" id="main">
+			<a href="javascript:void(0);" id="anchor" onkeydown="Main.keyDown();"></a>
+		</div>
+		<link href="https://unpkg.com/video.js/dist/video-js.css" rel="stylesheet">
+		<!-- Dummy anchor as focus for key events -->
+		<div class="container-fluid" id="channelList" style="display:none;">
+			<div class="row">
+				<div class="col">
+					<div class="alert alert-danger" id="danger" style="display:none;">
+					
+					</div>
+					<div class="alert alert-success" id="success" style="display:none;">
+					
+					</div>
+					<div class="alert alert-dark" id="lists" style="display:none;">
+					
+					</div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-4 timeLeftCorner"></div>
+				<div class="col-2 text-right actualChannelName">&nbsp;</div>
+				<div class="col-2">KANAŁY TV / Lista</div>
+				<div class="col-4 text-right">chris@sh198356.website.pl</div>
+			</div>
+			<div class="row">
+				<div class="col-6">
+					<div class="clearfix"></div>
+					<div class="currentChannelDate"> Dziś, <span class="currentChannelDateStart"></span> - <span class="currentChannelDateEnd"></span></div>
+					<div class="clearfix"></div>
+						<i class="fa fa-caret-right"></i> <span class="currentChannelTitle"></span>
+					<div class="clearfix"></div>
+					<div class="progress border">
+					  	<div class="progress-bar bg-info currentChannelProgress"></div>
+					</div>
+					<div class="clearfix"></div>
+					<div class="currentChannelType"></div>
+					<div class="clearfix"></div>
+					<div class="currentChannelDesc"></div>
+				</div>
+				<div class="col">
+					<ul class="channelsList"></ul>
+				</div>
+			</div>
+			<style>
+				li{
+					background-color: #2c2c40;
+					padding: 0 5px 0 5px;
+					margin-bottom: 5px;
+				}
+			</style>
+		</div>
+		<div class="container-fluid" id="channelEpg" style="display:none;">
+			<div class="row">
+				<div class="col">Dzisiaj</div>
+				<div class="col">Jutro</div>
+				<div class="col">Pojutrze</div>
+			</div>
+			<div class="row epg">
+				<div class="col"><ul class="todayEpg"></ul></div>
+				<div class="col"><ul class="tomorrowEpg"></ul></div>
+				<div class="col"><ul class="dayAfterTomorrowEpg"></ul></div>
+			</div>
+		</div>
+	</body>
+</html>

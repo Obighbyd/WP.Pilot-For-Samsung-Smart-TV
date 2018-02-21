@@ -1,0 +1,89 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+body {
+	font-size:30px;
+}
+ol, ul, li {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+body {
+    background-color: #181825;
+    color: #fff;
+}
+.channel-logo{
+	height:144px;
+}
+.title {
+    color: #fff;
+    word-break: keep-all;
+}
+.channelsList .channel-icon {
+    float: left;
+    display: inline-block;
+}
+.channelsList .desc {
+    height: 144px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 10px;
+    font-size: 25px;
+    //line-height: 20px;
+    padding-top: 7px;
+}
+.channelsList .name {
+    color: #fff;
+    opacity: .5;
+    //font-weight: 400;
+}
+.channelsList .type {
+    color: #9d9bd4;
+   // font-weight: 400;
+    text-align: left;
+}
+.channelsList li.current {
+	background-color: #35354e;
+}
+.channelsList li.selected {
+	background-color: #444769;
+}
+.fa {
+	color: #35354e;
+}
+.unsubscribed {
+	margin-left: 20px;
+}
+
+.progress {
+	margin-top: 20px;
+}
+.currentChannelTitle {
+	margin-top: 20px;
+}
+.currentChannelDate {
+	margin-top: 20px;
+}
+.currentChannelType {
+	color: #9d9bd4;
+	margin-top: 20px;
+}
+.currentChannelDesc {
+	margin-top: 10px;
+	font-size: 30px;
+}
+.actualChannelName {
+	color: #9d9bd4;
+}
+.epg li.current {
+	background-color: #35354e;
+}
+.epg-type {
+	color: #9d9bd4;
+}

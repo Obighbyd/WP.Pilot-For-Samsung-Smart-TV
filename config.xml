@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns="http://www.samsung.com/">  
+  <cpname itemtype="string"/>  
+  <cplogo itemtype="string"/>  
+  <cpauthjs itemtype="string"/>  
+  <ThumbIcon itemtype="string">icon/tv-2223047_960_720.png</ThumbIcon>  
+  <BigThumbIcon itemtype="string">icon/tv-2223047_960_720.png</BigThumbIcon>  
+  <ListIcon itemtype="string">icon/tv-2223047_960_720.png</ListIcon>  
+  <BigListIcon itemtype="string">icon/tv-2223047_960_720.png</BigListIcon>  
+  <category itemtype="string">Videos</category>  
+  <autoUpdate itemtype="boolean">n</autoUpdate>  
+  <ver itemtype="string">0.2</ver>  
+  <mgrver itemtype="string"/>  
+  <fullwidget itemtype="boolean">y</fullwidget>  
+  <type itemtype="string">user</type>  
+  <srcctl itemtype="boolean">y</srcctl>  
+  <ticker itemtype="boolean">n</ticker>  
+  <childlock itemtype="boolean">n</childlock>  
+  <videomute itemtype="boolean">n</videomute>  
+  <dcont itemtype="boolean">y</dcont>  
+  <widgetname itemtype="string">WP.PILOT Pro Tv (unofficial)</widgetname>  
+  <description itemtype="string">Aplikacja pozwoli na oglądanie WP.PILOT TV na Samsung Smart TV. Jedyne co będziesz musiał zrobić to zarejestrować się na stronie pilot.wp.pl i wprowadzić swoje dane w aplikacji.</description>  
+  <width itemtype="string">1920</width>  
+  <height itemtype="string">1080</height>  
+  <author itemtype="group"> 
+    <name itemtype="string">Chris Jaworski</name>  
+    <email itemtype="string">chris@sh198356.website.pl</email>  
+    <link itemtype="string">sh198356.website.pl</link>  
+    <organization itemtype="string">Free For All</organization> 
+  </author> 
+</widget>
