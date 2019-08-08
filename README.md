@@ -1,4 +1,7 @@
 # WP.Pilot-For-Samsung-Smart-TV
+## Uwaga!
+Drodzy przeszukiwacze WP Pilot do Samsunga, aktualnie nie posiadam już Samsung Smart TV jednak mogę kontynuować projekt, potrzebuję tylko informacji na temat waszych telewizorów, na których możecie testować aplikację ;)
+
 ## v. 0.1
 
 ![alt_text][preview]
